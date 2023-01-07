@@ -1,0 +1,133 @@
+E:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.exe
+E:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.deps.json
+E:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.json
+E:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.dev.json
+E:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.dll
+E:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.pdb
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.AssemblyReference.cache
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Form1.resources
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Properties.Resources.resources
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.GenerateResource.cache
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.GeneratedMSBuildEditorConfig.editorconfig
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfoInputs.cache
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfo.cs
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.CoreCompileInputs.cache
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.dll
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\refint\Intel8086.dll
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.pdb
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.genruntimeconfig.cache
+E:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\ref\Intel8086.dll
+G:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.exe
+G:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.deps.json
+G:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.json
+G:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.dev.json
+G:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.dll
+G:\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.pdb
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.AssemblyReference.cache
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Form1.resources
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Properties.Resources.resources
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.GenerateResource.cache
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.GeneratedMSBuildEditorConfig.editorconfig
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfoInputs.cache
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfo.cs
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.CoreCompileInputs.cache
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.dll
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\refint\Intel8086.dll
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.pdb
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.genruntimeconfig.cache
+G:\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\ref\Intel8086.dll
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.exe
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.deps.json
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.json
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.dev.json
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.dll
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.pdb
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.AssemblyReference.cache
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Form1.resources
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Properties.Resources.resources
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.GenerateResource.cache
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfoInputs.cache
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfo.cs
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.CoreCompileInputs.cache
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.dll
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\refint\Intel8086.dll
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.pdb
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.genruntimeconfig.cache
+D:\Users\adam.nowak\Desktop\Intel8086Projekt\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\ref\Intel8086.dll
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.exe
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.deps.json
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.json
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.dev.json
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.dll
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.pdb
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Form1.resources
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Properties.Resources.resources
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfo.cs
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.dll
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\refint\Intel8086.dll
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.pdb
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.genruntimeconfig.cache
+C:\Users\filip\Desktop\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\ref\Intel8086.dll
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.exe
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.deps.json
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.json
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.dev.json
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.dll
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.pdb
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.AssemblyReference.cache
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Form1.resources
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Properties.Resources.resources
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.GenerateResource.cache
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfoInputs.cache
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfo.cs
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.CoreCompileInputs.cache
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.dll
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\refint\Intel8086.dll
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.pdb
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.genruntimeconfig.cache
+D:\Chrome Download\8086-simulator-main (1)\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\ref\Intel8086.dll
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.exe
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.deps.json
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.json
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.runtimeconfig.dev.json
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.dll
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\bin\Debug\net5.0-windows\Intel8086.pdb
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.AssemblyReference.cache
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Form1.resources
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.Properties.Resources.resources
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.GenerateResource.cache
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfoInputs.cache
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.AssemblyInfo.cs
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.csproj.CoreCompileInputs.cache
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.dll
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\refint\Intel8086.dll
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.pdb
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\Intel8086.genruntimeconfig.cache
+D:\Chrome Download\moje\8086-simulator-main\Intel8086-main\Intel8086\obj\Debug\net5.0-windows\ref\Intel8086.dll
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\bin\Debug\net5.0-windows\architektura.exe
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\bin\Debug\net5.0-windows\architektura.deps.json
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\bin\Debug\net5.0-windows\architektura.runtimeconfig.json
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\bin\Debug\net5.0-windows\architektura.runtimeconfig.dev.json
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\bin\Debug\net5.0-windows\architektura.dll
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\bin\Debug\net5.0-windows\architektura.pdb
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\architektura.csproj.AssemblyReference.cache
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\Intel8086.Form1.resources
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\architektura.Properties.Resources.resources
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\architektura.csproj.GenerateResource.cache
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\architektura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\architektura.AssemblyInfoInputs.cache
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\architektura.AssemblyInfo.cs
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\architektura.csproj.CoreCompileInputs.cache
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\architektura.dll
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\refint\architektura.dll
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\architektura.pdb
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\architektura.genruntimeconfig.cache
+D:\Chrome Download\moje\8086-simulator-main\intel8086-main\architektura\obj\Debug\net5.0-windows\ref\architektura.dll
